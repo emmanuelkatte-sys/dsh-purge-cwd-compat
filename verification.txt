@@ -1,0 +1,5 @@
+Archive: dsh-purge-1.1.71-cwdcompat.1.tar.gz
+Files: 121
+SHA256: b27705387665c9521907c110bdab5c6465ab9adbf43a1a6f2b00ffb75043df09
+Tests: 13 passed; 0 skipped
+Syntax: 61 JavaScript/MJS files passed
